@@ -19,4 +19,4 @@ Technologies Used
 -Python
 -MySQL
 -PyMySQL
-=Jupyter Notebook 
+-Jupyter Notebook 
